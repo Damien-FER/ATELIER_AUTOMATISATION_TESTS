@@ -48,7 +48,7 @@ Pour cet atelier, **vous avez 4 secrets à créer** dans votre Repository GitHUB
 **PA_TARGET_DIR** = Web → Source code (ex: /home/monuser/myapp).  
 **PA_WEBAPP_DOMAIN** = votre site (ex: monuser.pythonanywhere.com).  
 
-test
+test2
   
 **Dernière étape :** Pour engager l'automatisation de votre première Action, vous devez cliquer sur le gros boutton vert dans l'onglet supérieur [Actions] dans votre Repository Github. Le boutton s'intitule "I understand my workflows, go ahead and enable them". Ensuite procédez à une "petite" modification de votre fichier README.md GitHub puis faites un [Commit] pour déclancher l'action.   
 
