@@ -1,13 +1,12 @@
 # API Choice
-
-- Étudiant :
-- API choisie :
-- URL base :
-- Documentation officielle / README :
-- Auth : None / API Key / OAuth
-- Endpoints testés :
-  - GET ...
-  - GET ...
-- Hypothèses de contrat (champs attendus, types, codes) :
-- Limites / rate limiting connu :
-- Risques (instabilité, downtime, CORS, etc.) :
+- Étudiant : Damien
+- API choisie : Frankfurter
+- URL base : https://api.frankfurter.app
+- Documentation officielle : https://www.frankfurter.app/docs/
+- Auth : None
+- Endpoints testés : 
+  - GET /latest
+  - GET /currencies
+- Hypothèses : Statut 200, JSON valide, présence de 'rates'
+- Limites : Pas de limites strictes pour cet usage
+- Risques : Instabilité réseau, downtime
